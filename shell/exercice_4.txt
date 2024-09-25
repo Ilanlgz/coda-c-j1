@@ -1,0 +1,4 @@
+rkdir dc/justice_league
+cp ../ batman.txt./ batman.txt
+cp ../ superman.txt ./ superman.txt
+cp -R ../sources ./

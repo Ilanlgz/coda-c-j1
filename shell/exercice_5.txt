@@ -1,0 +1,4 @@
+mkdir marvel/avengers
+cd marvel/avengers
+cp marvel/iron_man.txt marvel/avengers/
+cp marvel/captain_america.txt marvel/avengers/
